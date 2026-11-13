@@ -9,7 +9,7 @@ float moyenne(int a, int b) {
 }
 
 int main() {
-    printf("Message depuis feature/message\n");
+    printf("Bienvenue dans le projet collaboratif\n");
     printf("Produit = %d\n", produit(4, 5));
     printf("Moyenne = %.2f\n", moyenne(4, 5));
 
