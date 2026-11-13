@@ -25,7 +25,7 @@ float moyenne(int a, int b) {
 }
 
 int main() {
-    printf("Projet collaboratif\n");
+    printf("Développement de la fonctionnalité message\n");
     printf("Produit = %d\n", produit(4, 5));
     printf("Moyenne = %.2f\n", moyenne(4, 5));
 
